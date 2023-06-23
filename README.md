@@ -19,9 +19,11 @@ What kind of model did you choose for this experiment and why? Give an overview 
 
 Remember that your README should:
 - Include a screenshot of completed training jobs
-image/trainning_job.png
+![trainning job](./image/trainning_job.png)
+
 - Logs metrics during the training process
-image/log_trainning.png
+
+![log.metric](./image/log_trainning.png)
 - Tune at least two hyperparameters
 image/hyper_parametter_tunning_job.png
 - Retrieve the best best hyperparameters from all your training jobs
