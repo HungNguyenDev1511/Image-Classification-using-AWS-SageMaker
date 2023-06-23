@@ -27,7 +27,7 @@ Remember that your README should:
 - Tune at least two hyperparameters
 ![hyperparameter](./image/hyper_parametter_tunning_job.png)
 - Retrieve the best best hyperparameters from all your training jobs
-![best_hyperparamer](./image/hyper_parametter_tunning_job.png)
+![best_hyperparamer](./image/best_parameter.png)
 ## Debugging and Profiling
 **TODO**: Give an overview of how you performed model debugging and profiling in Sagemaker
 
